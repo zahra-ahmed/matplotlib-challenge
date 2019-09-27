@@ -1,0 +1,6 @@
+Data Observations
+---------------------------
+1. Capomulin is the only drug out of the three drugs and placebo we analyzed that showed positive results. Tumor volume reduced and the most number of mice survived under Capomulin.
+2. Ketapril seemed to have the opposite of the desired effect; tumor volume was larger under Ketapril vs. Placebo.
+3. Similarly, Infubinol also had a negetive effect on the mice tumors; more mice did not survive under Infubinol vs. Placebo.
+---------------------------
